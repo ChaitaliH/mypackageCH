@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Demo
+Version: 0.1
+Summary: My first test package
+Home-page: https://github.com/ChaitaliH/mypackageCH
+Author: Chaitali Harge
+Author-email: chaitali.harge@gmail.com
+License: MIT
+License-File: LICENSE
